@@ -16,4 +16,4 @@ This Power BI report presents an interactive dashboard built on insurance indust
 - **Dynamic Slicers:** Filter by time, region, and policy categories
 
 ## 📸 Dashboard Screenshot
-![Insurance Dashboard Preview](./dashboard_screenshot.png)
+![Insurance Dashboard Preview](./InsuranceDB.png)
