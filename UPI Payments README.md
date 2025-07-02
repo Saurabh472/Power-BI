@@ -25,4 +25,5 @@ This Power BI dashboard analyzes Unified Payments Interface (UPI) transaction da
 To visualize and interpret UPI transaction data in a meaningful way that supports financial inclusion analysis, digital adoption studies, and business strategy development.
 
 ## 📸 Dashboard Screenshot
-![UPI Payments Dashboard](./upi_dashboard_screenshot.png)
+![UPI Payments Dashboard](./UPI1.png)
+![UPI Payments Dashboard](./UPI2.png)
