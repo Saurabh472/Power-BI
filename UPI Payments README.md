@@ -5,8 +5,7 @@ This Power BI dashboard analyzes Unified Payments Interface (UPI) transaction da
 
 ## 📁 Files Included
 - `UPI Payments Analysis.pbix` – Power BI dashboard file
-- *(Optional)* `upi_data.xlsx` – Dataset used for the report (if publicly shareable)
-- `upi_dashboard_screenshot.png` – Preview image of the dashboard (upload separately)
+- `upi_dashboard_screenshot.png` – Preview image of the dashboard 
 
 ## 🔍 Key Insights
 - Month-over-month growth in UPI transaction volume and value  
