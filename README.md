@@ -5,8 +5,7 @@ This Power BI report presents an interactive dashboard built on insurance indust
 
 ## 📁 Files Included
 - `InsuranceDB.pbix` – Power BI report file with data model, visuals, and DAX measures
-- *(Optional)* `insurance_data.xlsx` – Source dataset (not included here for confidentiality)
-- `dashboard_screenshot.png` – Dashboard preview (upload this for GitHub display)
+- `dashboard_screenshot.png` – Dashboard preview 
 
 ## 📊 Key Features
 - **Policy Type Distribution:** Visual breakdown of policies by type and region  
