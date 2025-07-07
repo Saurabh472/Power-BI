@@ -5,7 +5,6 @@ This Power BI report provides an interactive dashboard for analyzing sales perfo
 
 ## 📁 Files Included
 - `Sales Data Analysis.pbix` – Main Power BI report with data model, visuals, and DAX calculations
-- *(Optional)* `sales_data.xlsx` – Source data (if shared)
 - `dashboard_screenshot.png` – Screenshot preview of the dashboard (to be added)
 
 ## 📌 Key Insights
